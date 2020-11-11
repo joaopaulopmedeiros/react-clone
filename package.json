@@ -1,0 +1,17 @@
+{
+  "name": "react-clone",
+  "version": "1.0.0",
+  "description": "A React clone based on Rodrigo Pombo teaching.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "babel core/index.js --out-file dist/bundle.js"
+  },
+  "keywords": [],
+  "author": "João Paulo M",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  }
+}
