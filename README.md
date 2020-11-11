@@ -9,5 +9,5 @@ const element = ReactClone.createElement(
   ReactClone.createElement("div", null, "Content")
 );
 const constainer = document.querySelector("#root")
-ReactDOM.render(element, container)
+ReactClone.render(element, container)
 ```
